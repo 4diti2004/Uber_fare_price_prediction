@@ -1,4 +1,4 @@
-🚖Uber Fare Prediction using Machine Learning
+##🚖Uber Fare Prediction using Machine Learning
 
 📖 Overview
 
