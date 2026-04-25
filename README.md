@@ -1,4 +1,6 @@
 #  🚖Uber Fare Prediction using Machine Learning
+# # LIVE DEMO
+https://uberfarepriceprediction-at6cxfyzz6ce224mrarclp.streamlit.app/
 
 📖 Overview
 
